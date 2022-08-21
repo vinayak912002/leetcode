@@ -1,5 +1,6 @@
-import java.util.*;
+package arrays;
 
+import java.util.*;
 
 public class Add_to_array989 {
     public static void main(String[] args) {
