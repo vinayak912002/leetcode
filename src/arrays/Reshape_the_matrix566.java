@@ -33,7 +33,7 @@ public class Reshape_the_matrix566 {
                 //first we check the col index ,if we do not check this first the index will become out of bounds.
                 if(ncol==c){
                     ncol= 0;//when the index of column exceeds the limit we set it back equal to zero.
-                    nrow++;//we also increase the number if rows.
+                    nrow++;//we also increase the number of rows.
                 }
                 ans[nrow][ncol]=mat[i][j];
                 ncol++;
