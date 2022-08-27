@@ -1,4 +1,4 @@
-package arrays;
+package searching;
 
 public class Two_sum_2_167 {
     public static void main(String[] args) {
