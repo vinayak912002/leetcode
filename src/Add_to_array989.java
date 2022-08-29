@@ -1,5 +1,3 @@
-package arrays;
-
 import java.util.*;
 
 public class Add_to_array989 {

@@ -1,5 +1,3 @@
-package arrays;
-
 public class Min_cost_moving_chips1217 {
     public static void main(String[] args) {
         int[] position = {2,2,2,3,3};

@@ -1,5 +1,3 @@
-package arrays;
-
 public class Maximum_subarray53 {
     //we are going to use Kadane's Algorithm to solve this problem
     public static void main(String[] args) {

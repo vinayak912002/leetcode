@@ -1,5 +1,3 @@
-package searching;
-
 public class Arranging_coins441 {
     public static void main(String[] args) {
         System.out.println(arrangeCoins(257849));

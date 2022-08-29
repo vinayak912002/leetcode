@@ -1,5 +1,3 @@
-package searching;
-
 public class Peak_index_mountain_array852 {
     public static void main(String[] args) {
         int[] arr = {0,2,1,0};

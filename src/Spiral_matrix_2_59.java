@@ -1,5 +1,3 @@
-package arrays;
-
 import java.util.Arrays;
 
 public class Spiral_matrix_2_59 {
