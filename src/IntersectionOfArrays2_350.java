@@ -2,7 +2,7 @@ import java.util.*;
 
 public class IntersectionOfArrays2_350 {
     public static void main(String[] args) {
-        
+
     }
     //in this we have to return the intersection of nums1 and nums2
     //each element must appear as many times they appear in both the arrays
