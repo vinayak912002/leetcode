@@ -1,6 +1,6 @@
 public class Arranging_coins441 {
     public static void main(String[] args) {
-        System.out.println(arrangeCoins(257849));
+        System.out.println(arrangeCoins(5));
     }
     static int arrangeCoins(int n){
         long start = 0,end= n;
@@ -12,9 +12,9 @@ public class Arranging_coins441 {
             if(curr == n) return (int)k;
 
             if(n < curr){
-                start = k+1;
-            }else{
                 end = k-1;
+            }else{
+                start = k+1;
             }
         }
         return (int)end;
