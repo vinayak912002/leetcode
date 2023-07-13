@@ -14,7 +14,7 @@ public class FairCandySwap_888 {
         for(int x : aliceSizes) s1 += x;
         for(int y : bobSizes) s2 += y;
 
-        int delta = (s2 - s1)/2;//if alice gives x chocolates she wants x + delta chocolates back
+        int delta = (s2 - s1)/2;//if alice gives x chocolates she wants x + delta chocolates back.It does not matter who has more candies in this solution.
 
         Set<Integer> setB = new HashSet<>();
         for(int x : bobSizes) setB.add(x);//we are adding the different amount of chocolate that bob has in a set
